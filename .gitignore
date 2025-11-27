@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+
+datasets/
+dataset/
+models/
+images/
+nb_images/
+out/
+model_data/
+
+*.h5
+*.ckpt
+*.data-00000-of-00001
+*.index
+*.mp4
